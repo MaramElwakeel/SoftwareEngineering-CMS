@@ -1,5 +1,2 @@
-i = 30
-
-while i  >= 0:
-  print(i)
-  i -= 1
+for j in range(0, 23):
+  print(j * 3)
