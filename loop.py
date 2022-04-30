@@ -1,2 +1,5 @@
-for i in range(0, 7):
+i = 30
+
+while i  >= 0:
   print(i)
+  i -= 1
